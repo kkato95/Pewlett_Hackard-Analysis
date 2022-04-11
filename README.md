@@ -12,11 +12,15 @@ The purpose of this analysis was to determine the number of retiring employees p
 
 #### Retirement Titles:
 
+* We will be creating create a Retirement Titles table for employees who were born between 1/1/1952 and 12/31/1955
+
 ![retirement_titles_sql_code](https://user-images.githubusercontent.com/99375741/162649508-925cbc3f-984a-41ba-990b-a8f4f8c4be63.png)
 
 ![retirement_titles_table](https://user-images.githubusercontent.com/99375741/162649542-7627c4f5-1bfa-46e0-a142-953ba8390f5f.png)
 
 #### Unique Titles:
+
+* Because employees may have multiple titles, we will have to create a table that has the most recent title of each employee
 
 ![unique_titles_sql_code](https://user-images.githubusercontent.com/99375741/162649564-3fcfb066-0a94-46cc-b3af-7d594605f2bc.png)
 
