@@ -8,7 +8,7 @@ The purpose of this analysis was to determine the number of retiring employees p
 
 ### Deliverable #1
 
-
+We are analyzing the number of retiring emplyees by titles
 
 #### Retirement Titles:
 
@@ -21,7 +21,7 @@ The purpose of this analysis was to determine the number of retiring employees p
 
 #### Unique Titles:
 
-* Because employees may have multiple titles, we will have to create a table that has the most recent title of each employee by setting to_date to '9999-01-01.'
+* Because employees may have multiple titles, we will have to create the Unique Titles table that has the most recent title of each employee by setting to_date to '9999-01-01.'
 
 ![unique_titles_sql_code](https://user-images.githubusercontent.com/99375741/162649564-3fcfb066-0a94-46cc-b3af-7d594605f2bc.png)
 
@@ -29,11 +29,17 @@ The purpose of this analysis was to determine the number of retiring employees p
 
 #### Count of Unique Titles:
 
+* We are returning the count of unique titles in the unique_titles table.
+
 ![unique_titles_count](https://user-images.githubusercontent.com/99375741/162649608-1e893e34-9cbb-4f1c-aae7-8a3fc23fa112.png)
 
 #### Retiring Titles:
 
+* Created a new table called Retiring Titles to show the count of each title in the Unique Titles table
+* Grouped and sorted data base on titles
+
 ![retiring_titles_sql_data](https://user-images.githubusercontent.com/99375741/162649626-316393ad-b693-4dcf-be32-f7545d04dca2.png)
+
 
 ### Deliverable #2
 
