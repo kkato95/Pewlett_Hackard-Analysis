@@ -43,11 +43,22 @@ We are analyzing the number of retiring employees by creating 3 tables - Retirme
 
 ### Deliverable #2
 
-
+We are using Employees, Department Employee, and Titles table to determine which employees are eligibile to particpate in the mentorship program.
 
 Mentorship Eligibility:
+
+* Created a new table that joins 3 saeperate tables - Employees, Department, and Titles.
+* Join the tables on the emp_no for all 3
+* Filter for all current employees, then fileter for employees with birth_date between 1/1/1965 and 12/31/1965
 
 ![mentorship_eligibility_sql_code](https://user-images.githubusercontent.com/99375741/162650255-008c446d-b227-43e9-994d-83d96ea7fcfe.png)
 
 ![mentorship_eligibility_data](https://user-images.githubusercontent.com/99375741/162650262-09e69580-fd73-4e1b-b655-0bb18e4aecb2.png)
 
+## Summary
+
+1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+
+
+2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
