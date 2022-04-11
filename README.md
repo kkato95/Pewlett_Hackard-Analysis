@@ -10,7 +10,7 @@ The purpose of this analysis was to determine the number of retiring employees p
 
 
 
-###3 Retirement Titles:
+#### Retirement Titles:
 
 ![retirement_titles_sql_code](https://user-images.githubusercontent.com/99375741/162649508-925cbc3f-984a-41ba-990b-a8f4f8c4be63.png)
 
