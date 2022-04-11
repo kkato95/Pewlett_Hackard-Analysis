@@ -8,7 +8,7 @@ The purpose of this analysis was to determine the number of retiring employees p
 
 ### Deliverable #1
 
-We are analyzing the number of retiring emplyees by titles
+We are analyzing the number of number of retiring employees by creating 3 tables - Retirment Titiles, Unique Titles, and Retiring Titles - to identify each employee that may be retiring based on their birth_date, most recent titles, and then counting the number of uniqe titles per department.
 
 #### Retirement Titles:
 
