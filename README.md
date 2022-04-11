@@ -12,8 +12,8 @@ The purpose of this analysis was to determine the number of retiring employees p
 
 #### Retirement Titles:
 
-* We will be creating create a Retirement Titles table for employees who were born between 1/1/1952 and 12/31/1955 by jpinign Employees and Titles on the unique identifier employee number
-* Ordered into descending employee number
+* We will be creating create a Retirement Titles table for employees who were born between 1/1/1952 and 12/31/1955 by joining Employees and Titles on the unique identifier employee number.
+* Ordered into descending employee number.
 
 ![retirement_titles_sql_code](https://user-images.githubusercontent.com/99375741/162649508-925cbc3f-984a-41ba-990b-a8f4f8c4be63.png)
 
@@ -21,7 +21,7 @@ The purpose of this analysis was to determine the number of retiring employees p
 
 #### Unique Titles:
 
-* Because employees may have multiple titles, we will have to create a table that has the most recent title of each employee
+* Because employees may have multiple titles, we will have to create a table that has the most recent title of each employee by setting to_date to '9999-01-01.'
 
 ![unique_titles_sql_code](https://user-images.githubusercontent.com/99375741/162649564-3fcfb066-0a94-46cc-b3af-7d594605f2bc.png)
 
