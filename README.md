@@ -51,9 +51,9 @@ Mentorship Eligibility:
 * Join the tables on the emp_no for all 3
 * Filter for all current employees, then fileter for employees with birth_date between 1/1/1965 and 12/31/1965
 
-![mentorship_eligibility_sql_code](https://user-images.githubusercontent.com/99375741/162650255-008c446d-b227-43e9-994d-83d96ea7fcfe.png)
+![mentorship_eligibility_sql_code](https://user-images.githubusercontent.com/99375741/162653082-db7bffa9-6e58-48ea-bbf8-0bf4bdd0894d.png)
 
-![mentorship_eligibility_data](https://user-images.githubusercontent.com/99375741/162650262-09e69580-fd73-4e1b-b655-0bb18e4aecb2.png)
+![mentorship_eligibility_data](https://user-images.githubusercontent.com/99375741/162653099-932dd76d-8541-482e-834f-a5c666dd6a04.png)
 
 ## Summary
 
