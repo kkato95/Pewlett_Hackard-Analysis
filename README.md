@@ -19,3 +19,10 @@ Count of Unique Titles:
 Retiring Titles:
 
 ![retiring_titles_sql_data](https://user-images.githubusercontent.com/99375741/162649626-316393ad-b693-4dcf-be32-f7545d04dca2.png)
+
+Mentorship Eligibility:
+
+![mentorship_eligibility_sql_code](https://user-images.githubusercontent.com/99375741/162650255-008c446d-b227-43e9-994d-83d96ea7fcfe.png)
+
+![mentorship_eligibility_data](https://user-images.githubusercontent.com/99375741/162650262-09e69580-fd73-4e1b-b655-0bb18e4aecb2.png)
+
