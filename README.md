@@ -59,6 +59,11 @@ Mentorship Eligibility:
 
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
+Adding up all the employee numbers in the Unique Titles tables will provide the total numbers of potential retirees
 
+![total_unique_employees](https://user-images.githubusercontent.com/99375741/162658192-1d628d0d-3f10-48ee-8ad6-1ea08b1bcdaa.png)
 
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+![emp_no mentorship eligibility](https://user-images.githubusercontent.com/99375741/162658368-994d5d5b-3002-482c-88d4-34f66bb6bcf2.png)
+
