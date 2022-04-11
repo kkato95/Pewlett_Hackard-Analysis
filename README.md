@@ -7,12 +7,15 @@ Retirement Titles:
 ![retirement_titles_table](https://user-images.githubusercontent.com/99375741/162649542-7627c4f5-1bfa-46e0-a142-953ba8390f5f.png)
 
 Unique Titles:
+
 ![unique_titles_sql_code](https://user-images.githubusercontent.com/99375741/162649564-3fcfb066-0a94-46cc-b3af-7d594605f2bc.png)
 
 ![unique_titles_date](https://user-images.githubusercontent.com/99375741/162649582-cad11a9e-c5ca-454d-9d2f-d8f6d5a89af4.png)
 
 Count of Unique Titles:
+
 ![unique_titles_count](https://user-images.githubusercontent.com/99375741/162649608-1e893e34-9cbb-4f1c-aae7-8a3fc23fa112.png)
 
 Retiring Titles:
+
 ![retiring_titles_sql_data](https://user-images.githubusercontent.com/99375741/162649626-316393ad-b693-4dcf-be32-f7545d04dca2.png)
